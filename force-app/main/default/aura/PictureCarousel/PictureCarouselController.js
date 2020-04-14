@@ -6,6 +6,7 @@
             slideIndex = slideIndex + 1;
 	        component.set("v.slideIndex", slideIndex);
         }
+        console.log("holi");
 	},
 
     prev: function(component) {
